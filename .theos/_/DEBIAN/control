@@ -1,0 +1,10 @@
+Package: com.joemerlino.wareply
+Name: WAReply
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Enables whatsapp stock quickreply and onetap audio recording.
+Maintainer: Joe Merlino
+Author: Joe Merlino
+Section: Tweaks
+Version: 0.0.1-1
+Installed-Size: 260
