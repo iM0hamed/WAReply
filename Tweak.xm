@@ -10,7 +10,7 @@
 
 %group MIC
 static BOOL first = YES;
-%hook WAChatBar
+%hook WAChatMessageInputView
 -(void)pttButtonInsideReleased:(id)released withEvent:(id)event{
 	if(!first){
 		first = YES;
